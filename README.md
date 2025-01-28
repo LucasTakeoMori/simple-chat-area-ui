@@ -21,7 +21,7 @@ This project is a chat application that displays funny messages from Kanye West 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/kanye-west-chat-ui.git
+git clone git@github.com:LucasTakeoMori/simple-chat-area-ui.git
 ```
 
 2. Install Depen
